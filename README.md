@@ -1,2 +1,0 @@
-# Wizualizacja_Danych
-
